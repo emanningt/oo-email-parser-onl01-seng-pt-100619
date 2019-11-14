@@ -1,4 +1,4 @@
-calss EmailParser
+class EmailParser
 
 attr_accessor
 
